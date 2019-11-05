@@ -4,9 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 branch test
 <<<<<<< HEAD
-Creating a new branch is quick AND sample.
-=======
-Creating a new branch is quick AND sample.
->>>>>>> feature1
 
 
